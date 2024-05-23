@@ -1,0 +1,121 @@
+ 
+@media (max-width: 1024px) {
+	
+}
+
+ 
+@media (max-width: 992px) {
+    ul.nav > li > a {
+        font-size: 10px;
+        padding: 0 5px;
+    }
+    .main_slide{
+        height: 510px;
+    }
+    .about_section .about_content{
+        padding: 0;
+    }
+	.reserv_form {
+		padding: 88px 0;
+	}
+	.page_header{
+		height: 300px;
+	}
+}
+ 
+@media all and (min-width: 480px) and (max-width: 768px) {
+	
+}
+ 
+@media all and (max-width: 767px) {
+    body, p{
+        font-size: 12px;
+        line-height: 22px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    p br{
+        display: none;
+    }
+    .padding{
+        padding: 60px 0;
+    }
+    .xs-padding{
+    	padding: 15px;
+    }
+    .navbar-header {
+        padding: 23px 20px;
+    }
+    .navbar-header .brand {
+        display: block;
+        padding: 13px 25px;
+    }
+    .js #mainmenu {
+        display:none;
+    }
+    .js .slicknav_menu {
+        display:block;
+    }
+    .main_slide{
+        height: 420px;
+    }
+    .page_header{
+        height: 300px;
+    }
+    .breadcrumb {
+        right: auto;
+        top: auto;
+        bottom: -50px;
+        left: -15px;
+        margin: 0;
+    }
+	.contact_form .form-group .col-sm-6:first-child{
+        margin-bottom: 15px;
+    }
+    .coment-form .form-group .col-sm-4:last-child{
+        margin-top: 15px;
+    }
+	.reserv_form{
+		padding: 0;
+	}
+}
+ 
+@media all and (max-width: 480px) {
+    .col-xs-6{
+		float: none;
+		width: 100%;
+	}
+    .hero_height{
+        height: 380px;
+    }
+    .coment-form .form-group .col-sm-4{
+        margin-bottom: 15px;
+        margin-top: auto;
+    }
+    .coment-form .form-group .col-sm-4:last-child{
+        margin: 0;
+    }
+    .reserv_form .form-group .col-xs-6:first-child{
+        margin-bottom: 15px;
+    }
+
+}
+ 
+ 
+@media all and (max-width: 420px) {
+    
+}
+ 
+@media all and (max-width: 380px) {
+	.slider_content .btn_group a {
+        margin: 0 10px 10px 0;
+    }
+}
+ 
